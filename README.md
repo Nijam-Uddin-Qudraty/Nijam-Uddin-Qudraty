@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey, I'm Qudraty
 
 I'm someone who loves learning and building with code. I started with **C/C++**, solving basic problems and learning data structures and algorithms. 
