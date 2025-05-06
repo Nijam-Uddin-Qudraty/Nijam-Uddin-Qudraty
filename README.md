@@ -42,11 +42,11 @@ Since then, I've picked up other skills and now I'm focused on becoming a full-s
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nijam-Uddin-Qudraty&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nijam-Uddin-Qudraty&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nijam-Uddin-Qudraty&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nijam-Uddin-Qudraty&layout=compact&theme=github_dark)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nijam-Uddin-Qudraty&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nijam-Uddin-Qudraty&theme=github-dark)](https://git.io/streak-stats)
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Nijam-Uddin-Qudraty&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
